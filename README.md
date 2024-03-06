@@ -19,7 +19,7 @@ We will meet as a Cohort via Zoom five times over two months for 1.5
 hours each:
 
 - **Dates:** April 10, 24, May 8, 22, June 5
-- **Times:** 10:00 - 11:30 am PT
+- **Times:** 1:00 - 2:30 pm ET / 10:00 - 11:30 am PT
 - **Location:** Remotely, via MS Teams
 
 Agendas are accessible to Cohort participants in our Cohort Teams Drive
@@ -52,17 +52,12 @@ directly (we’ll learn how in our GitHub Clinic!)
 
 ## Openscapes Team
 
-Julie Lowndes (@jules32), Openscapes
-
-Stefanie Butland (@stefaniebutland), Openscapes
-
-Gayle Hagler, EPA
-
-Jeff Hollister (@jhollist), EPA
-
-Farnaz Nojavan (@farnazn), EPA
-
-Michael McManus, EPA
+**Julie Lowndes** (@jules32), Openscapes  
+**Stefanie Butland** (@stefaniebutland), Openscapes  
+**Gayle Hagler** EPA  
+**Jeff Hollister** (@jhollist), EPA  
+**Farnaz Nojavan** (@farnazn), EPA  
+**Michael McManus** EPA
 
 ## More about Openscapes and the Champions program:
 
