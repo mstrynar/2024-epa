@@ -23,8 +23,7 @@ hours each:
 - **Location:** Remotely, via MS Teams
 
 Agendas are accessible to Cohort participants in our Cohort Teams Drive
-Folder; they are also an archive of our live notetaking. Please see
-<https://openscapes.org/series> to view blank versions of the agendas.
+Folder; they are also an archive of our live notetaking. Please see [openscapes.org/series](https://openscapes.github.io/series) to view blank versions of the agendas.
 
 | Date  | Cohort Call Topics                                   |
 |:------|:-----------------------------------------------------|
