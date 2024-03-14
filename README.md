@@ -1,7 +1,7 @@
 
 <a align="left" href="https://github.com/Openscapes/2024-epa"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35px"></a>
 
-# 2024 EPA
+# 2024 EPA Openscapes Champions Cohort
 
 Welcome to the 2024 EPA Cohort! This is a Cohort for the U.S
 Environmental Protection Agency, Center for Environmental Measurement
@@ -25,12 +25,12 @@ hours each:
 Agendas are accessible to Cohort participants in our Cohort Teams Drive
 Folder; they are also an archive of our live notetaking. Please see [openscapes.org/series](https://openscapes.github.io/series) to view blank versions of the agendas.
 
-| Date  | Cohort Call Topics                                   |
-|:------|:-----------------------------------------------------|
-| 04/10 | Openscapes mindset                                   |
-| 04/24 | GitHub for publishing & project management           |
-| 05/08 | Team culture and data strategies for future us       |
-| 05/22 | Open communities and coding strategies for future us |
+| Date  | Cohort Call Topics                                   | Series Chapters |      Seaside Chat Topics
+|:------|:-----------------------------------------------------| ----------------------|--------------------------------
+| 04/10 | Openscapes mindset                                   |  [mindset](https://openscapes.github.io/series/mindset), [better science in less time](https://openscapes.github.io/series/better-science.html) | Reflect together on what you’ve learned 
+| 04/24 | GitHub for publishing & project management           |  [publishing](https://openscapes.github.io/series/github-pub), [project management](https://openscapes.github.io/series/github-issues) | Shared organizing with GitHub
+| 05/08 | Team culture and data strategies for future us       |  [team culture](https://openscapes.github.io/series/team-culture), [data strategies](https://openscapes.github.io/series/data-strategies) | Onboarding documentation 
+| 05/22 | Open communities and coding strategies for future us |  [open communities](https://openscapes.github.io/series/communities), [coding strategies](https://openscapes.github.io/series/coding-strategies) | Pathways preparation
 | 06/05 | Pathways share and next steps                        |
 
 ## Co-working times (optional)
@@ -47,7 +47,14 @@ screensharing to learn and problem solve.
 ## Participating teams
 
 Some brief information about participating teams. Please add any edits
-directly (we’ll learn how in our GitHub Clinic!)
+directly (we’ll learn how in our GitHub Clinic!). Take some inspiration from [NOAA Fisheries Champions teams](https://github.com/Openscapes/2021-noaa-nmfs/blob/main/README.md). 
+
+You might add:
+
+- What kind of team you are (cross-divisional) or where you are from (division focusing on...)
+- Links to your program and what you are working on together
+- Brief description of your potential projects
+- Who is on your team
 
 ## Openscapes Team
 
@@ -56,7 +63,7 @@ directly (we’ll learn how in our GitHub Clinic!)
 **Gayle Hagler** EPA  
 **Jeff Hollister** (@jhollist), EPA  
 **Farnaz Nojavan** (@farnazn), EPA  
-**Michael McManus** EPA
+**Mike McManus** EPA
 
 ## More about Openscapes and the Champions program:
 
