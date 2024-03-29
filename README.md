@@ -40,7 +40,7 @@ Sometimes, this means quiet work with check-ins to break up focused work
 and get feedback, and sometimes this involves asking questions and
 screensharing to learn and problem solve.
 
-- **Dates:** Thursdays April 17, May 2, 16, 30
+- **Dates:** Thursdays April 18, May 2, 16, 30
 - **Times:** 11:00 - 12:00 PT / 1:00 - 3:00 pm ET
 - **Location:** remotely, via Teams
 
