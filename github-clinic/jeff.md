@@ -4,7 +4,7 @@ Working on GitHub.com, we contribute changes through **commits**. You'll practic
 
 Let's add a fun animated GIF:
 
-![Animated GIF of "Beavis and Butthead" from Saturday Night Live](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTU0eTQ2OTQ5cmtsenZzbzZpbGZucXJpbGlkbGxsenBiZzU1cGpmbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1IfyeUjfROxEXEaf4/giphy.gif)
+![Animated GIF of "Beavis and Butthead" from Saturday Night Live](https://i.giphy.com/L1IfyeUjfROxEXEaf4.webp)
 
 ## Task 1: Commit an edit from the browser
 
