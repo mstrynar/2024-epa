@@ -20,7 +20,13 @@ This file is written in Markdown, which formats text on the web. To see the Mark
 
 We can make words **bold** or *italic*.
 
+*Testing* **markdown**
+
 ### We can make headers.
+
+1. pizza
+2. chocolate
+3. tea
 
 We can make lists – *note that lists need an empty line before list items!*
 
