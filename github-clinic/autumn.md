@@ -45,3 +45,6 @@ Your turn! Change or add something in Markdown and make another commit: write a 
 ## NOTES
 
 It's a lot to get familiar with markdown if you haven't used it previously! 
+
+![IMG_20160303_084034616](https://github.com/Openscapes/2024-epa/assets/127783080/0b537c13-f5d0-4a8a-9b48-3361f30cb668)
+
